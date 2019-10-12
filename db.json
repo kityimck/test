@@ -8,7 +8,7 @@
     { "id":1, "statusId":1, "statusName": "Onboard" },
     { "id":2, "statusId":2, "statusName": "Arrived Dport" },
     { "id":3, "statusId":3, "statusName": "Delivered" }
-  ]
+  ],
   "users": [
   {
     "id": 1,
