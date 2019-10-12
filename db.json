@@ -1,8 +1,8 @@
 {
   "shipments": [
-    { "billNo": 1, "status": "Post 1" },
-    { "billNo": 2, "status": "Post 2" },
-    { "billNo": 3, "status": "Post 3" }
+    { "id":1, "billNo": 1, "status": "Post 1" },
+    { "id":2, "billNo": 2, "status": "Post 2" },
+    { "id":3, "billNo": 3, "status": "Post 3" }
   ],
   "users": [
   {
