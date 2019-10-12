@@ -2,7 +2,7 @@
   "shipments": [
     { "id":1, "billNo": "BL1234567", "status": "Onboard" },
     { "id":2, "billNo": "BL2345678", "status": "Arrived Dport" },
-    { "id":3, "billNo": "BL3456789", "status": "PDelivered" }
+    { "id":3, "billNo": "BL3456789", "status": "Delivered" }
   ],
   "users": [
   {
