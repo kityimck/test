@@ -1,9 +1,14 @@
 {
   "shipments": [
-    { "id":1, "billNo": "BL1234567", "status": "Onboard" },
-    { "id":2, "billNo": "BL2345678", "status": "Arrived Dport" },
-    { "id":3, "billNo": "BL3456789", "status": "Delivered" }
+    { "id":1, "billNo": "BL1234567", "statusId": 1 },
+    { "id":2, "billNo": "BL2345678", "statusId": 2 },
+    { "id":3, "billNo": "BL3456789", "statusId": 3 }
   ],
+  "status" : [
+    { "id":1, "statusId":1, "statusName": "Onboard" },
+    { "id":2, "statusId":2, "statusName": "Arrived Dport" },
+    { "id":3, "statusId":3, "statusName": "Delivered" }
+  ]
   "users": [
   {
     "id": 1,
